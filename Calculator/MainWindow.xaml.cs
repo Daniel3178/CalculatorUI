@@ -45,6 +45,7 @@ namespace Calculator
             Display.Clear();
         }
 
+        //Sup mah pal
         private void Multiplay_Button(object sender, RoutedEventArgs e)
         {
             first = int.Parse(Display.Text);
